@@ -1,5 +1,7 @@
 # Nexus-Logis Agentic Swarm (Night Shift Autopilot)
 
+![Nexus-Logis Architecture](assets/nexus_logis_architecture.png)
+
 ![Status](https://img.shields.io/badge/Status-Encapsulated-success)
 ![Protocol](https://img.shields.io/badge/Protocol-MCP_2026--07--28_RC-blue)
 ![Architecture](https://img.shields.io/badge/Architecture-Stateless_Edge-blueviolet)
