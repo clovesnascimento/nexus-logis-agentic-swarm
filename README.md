@@ -68,4 +68,9 @@ python nexus_logis/agents/simulate_nginx_stress.py
 Isso validará o roteamento via cabeçalho sem decodificação JSON do payload, atingindo latências microscópicas de borda.
 
 ---
+### Créditos
+
+**CNGSM** — Cognitive Neural & Generative Systems Management  
+**Cloves Nascimento** — Arquiteto de Ecossistemas Cognitivos
+
 *Construído pelo protocolo autônomo Night Shift Autopilot*
