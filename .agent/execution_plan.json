@@ -1,0 +1,22 @@
+{
+  "version": "1.4.0",
+  "phase_id": "PHASE-05",
+  "phase_name": "Migração MCP 2026-07-28 Release Candidate",
+  "tasks": [
+    {
+      "task_id": "TASK-05-01",
+      "description": "Atualização do Kubernetes para Roteamento Inteligente na Borda (Mcp-Method, Mcp-Name)",
+      "status": "pending"
+    },
+    {
+      "task_id": "TASK-05-02",
+      "description": "Refatoração de Agentes para Extensão Tasks (io.modelcontextprotocol/tasks) e Apps",
+      "status": "pending"
+    },
+    {
+      "task_id": "TASK-05-03",
+      "description": "Remoção de Handshake Síncrono e recursos depreciados (Roots, Sampling, Logging nativo)",
+      "status": "pending"
+    }
+  ]
+}

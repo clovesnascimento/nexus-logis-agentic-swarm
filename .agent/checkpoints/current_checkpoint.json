@@ -1,0 +1,8 @@
+{
+  "checkpoint_id": "CP-INITIAL-000001",
+  "timestamp": "2026-07-24T21:45:00-03:00",
+  "reason": "initial_environment_preflight_passed",
+  "git_commit_hash": "none",
+  "database_schema_version": "0",
+  "ledger_tx_id": "0"
+}

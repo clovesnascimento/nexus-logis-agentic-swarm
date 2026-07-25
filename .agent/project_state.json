@@ -1,0 +1,22 @@
+{
+  "workflow_id": "WF-2026-NEXUS-01",
+  "project_id": "PROJECT-1784938074176-VYX63L",
+  "runtime_mode": "night_shift_autopilot",
+  "workflow_status": "encapsulated",
+  "pause_reason": null,
+  "current_state": "SEALED",
+  "current_phase_id": "PHASE-05",
+  "current_task_id": "TASK-FINAL",
+  "last_completed_task_id": "TASK-05-03",
+  "last_valid_checkpoint_id": "CP-FINAL-RC-VALIDATED",
+  "next_safe_action": null,
+  "workspace_status": "rc_migration_completed",
+  "pending_operations": [],
+  "open_failures": [],
+  "active_lease_id": "LEASE-AGENT-ORCHESTRATOR-20260724",
+  "active_model_provider": "PRIMARY",
+  "blueprint_version": "2.0.0-rc-candidate",
+  "plan_version": "1.4.0",
+  "approval_id": "APPROVAL-CANDIDATE-1784938074178-2WKXLD",
+  "updated_at": "2026-07-24T22:20:00-03:00"
+}
